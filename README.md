@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/ranit-biswas" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/CanionGame" target="_blank">
+<a href="https://github.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
@@ -43,40 +43,40 @@
 
 ### 📊 Advanced GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanionGame&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CanionGame&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ### 🏆 Achievements & Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CanionGame&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ### 🚀 Languages Usage Graph  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=pie&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=pie&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 3D Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 👀 Visitors Count  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CanionGame&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
