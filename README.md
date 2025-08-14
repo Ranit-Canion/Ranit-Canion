@@ -1,67 +1,62 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)](https://ranit-canion.io)
-<h1 align="center">Hi 👋, I'm Ranit Biswas</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- Banner -->
+![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)
 
-- 🔭 I’m currently working on **Hotel Management full stack App**
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer+from+India;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!">
+</h1>
 
-- 🌱 I’m currently learning **Nextjs**
+<!-- Short Intro -->
+<h3 align="center">🚀 Passionate about building scalable full-stack applications</h3>
 
-- 💬 Ask me about **MERN STACK**
+---
 
-- 📫 How to reach me **caniongamer0@gmail.com**
+### 🌟 About Me  
+- 🔭 Currently working on **Hotel Management Full Stack App**  
+- 🌱 Learning **Next.js**  
+- 💬 Ask me about **MERN Stack Development**  
+- 📫 Reach me at **caniongamer0@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me  
 <p align="left">
+<a href="mailto:caniongamer0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ranit-biswas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/CanionGame" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
-  </a> 
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="80" height="80"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100" height="100"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> 
-  </a> 
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original-wordmark.svg" alt="supabase" width="200" height="200" />
-  </a>
+---
 
+### 🛠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,pug" />
+</p>
 
+---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanionGame&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 🚀 Top Skills  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
