@@ -3,16 +3,16 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer+from+India;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer+from+India;MERN+%7C+Next.js+%7C+Tailwind+CSS;Lifelong+Learner+%26+Creator">
 </h1>
 
 <!-- Short Intro -->
-<h3 align="center">🚀 Passionate about building scalable full-stack applications</h3>
+<h3 align="center">✨ Turning coffee into code & ideas into reality 🚀</h3>
 
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on **Hotel Management Full Stack App**  
+- 🔭 Working on **Hotel Management Full Stack App**  
 - 🌱 Learning **Next.js**  
 - 💬 Ask me about **MERN Stack Development**  
 - 📫 Reach me at **caniongamer0@gmail.com**  
@@ -36,27 +36,50 @@
 
 ### 🛠 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,pug" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,pug&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Advanced GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanionGame&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanionGame&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CanionGame&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🚀 Top Skills  
+### 🏆 Achievements & Trophies  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CanionGame&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-<!-- Footer Animation -->
+### 🚀 Languages Usage Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=pie&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 📈 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👀 Visitors Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CanionGame&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+### 🎯 Fun Fact  
+💡 *I debug at 2 AM because my code works better after midnight.* 😆
