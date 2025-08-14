@@ -39,7 +39,6 @@
 ### ​ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,pug" />
-  <img src="https://seeklogo.com/images/R/react-query-logo-435663DFC1-seeklogo.com.png" alt="React Query" width="48" height="48" />
 </p>
 
 
