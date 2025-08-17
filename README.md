@@ -12,10 +12,9 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on **Hotel Management Full Stack App**  
-- 🌱 Learning **Next.js**  
-- 💬 Ask me about **MERN Stack Development**  
-- 📫 Reach me at **caniongamer0@gmail.com**  
+- 🔭 Currently working on **AI POWERED JOB PORTAL**  
+- 💬 Ask me about **Full Stack Development**  
+- 📫 Reach me at **ranitbiswasofficial@gmail.com**  
 
 ---
 
