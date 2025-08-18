@@ -46,10 +46,10 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <!-- GitHub Readme Stats (cache to avoid rate-limit blanks) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranit-Canion&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165"/>
   
   <!-- Streak Stats (reliable mirror) -->
-  <img src="https://streak-stats.demolab.com?user=CanionGame&theme=tokyonight&hide_border=false" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ranit-Canion&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 ---
