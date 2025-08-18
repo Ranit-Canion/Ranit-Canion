@@ -1,4 +1,4 @@
-```markdown
+
 # 💼 Ranit Biswas — GitHub Profile README
 
 <!-- Banner -->
