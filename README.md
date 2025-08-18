@@ -1,9 +1,12 @@
+```markdown
+# 💼 Ranit Biswas — GitHub Profile README
+
 <!-- Banner -->
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!" />
 </h1>
 
 <!-- Short Intro -->
@@ -33,32 +36,34 @@
 
 ---
 
-
-### ​ Languages & Tools  
+### ​🧰 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents" />
 </p>
-
-
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanionGame&theme=tokyonight" height="165"/>
+  <!-- GitHub Readme Stats (cache to avoid rate-limit blanks) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CanionGame&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165"/>
+  
+  <!-- Streak Stats (reliable mirror) -->
+  <img src="https://streak-stats.demolab.com?user=CanionGame&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 ---
 
 ### 🚀 Top Skills  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=compact&theme=tokyonight" />
+  <!-- Use compact layout + cache to reduce blank images during API rate limits -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 ---
 
-<!-- Footer Animation -->
+### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/CanionGame/CanionGame/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+```
