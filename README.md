@@ -57,7 +57,7 @@
 ### 🚀 Top Skills  
 <p align="center">
   <!-- Use compact layout + cache to reduce blank images during API rate limits -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanionGame&layout=compact&theme=tokyonight&cache_seconds=7200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranit-Canion&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 ---
