@@ -51,27 +51,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <!-- GitHub Readme Stats (cache to avoid rate-limit blanks) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranit-Canion&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165"/>
-  
-  <!-- Streak Stats (reliable mirror) -->
-  <img src="https://streak-stats.demolab.com?user=Ranit-Canion&theme=tokyonight&hide_border=false" height="165"/>
-</p>
 
----
-
-### 🚀 Top Skills  
-<p align="center">
-  <!-- Use compact layout + cache to reduce blank images during API rate limits -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranit-Canion&layout=compact&theme=tokyonight&cache_seconds=7200" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ranit-Canion/Ranit-Canion/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 ```
