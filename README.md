@@ -17,7 +17,9 @@
 ### 🌟 About Me  
 - 🔭 Currently working on **AI POWERED JOB PORTAL**  
 - 💬 Ask me about **Full Stack Development**  
-- 📫 Reach me at **ranitbiswasofficial@gmail.com**  
+- 📫 Reach me at **ranitbiswasofficial@gmail.com**
+- 🧠 Practicing DSA on LeetCode
+ and GeeksforGeeks
 
 ---
 
