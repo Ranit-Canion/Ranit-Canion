@@ -18,7 +18,7 @@
 - 🔭 Currently working on **AI POWERED JOB PORTAL**  
 - 💬 Ask me about **Full Stack Development**  
 - 📫 Reach me at **ranitbiswasofficial@gmail.com**
--
+
 
 ---
 
