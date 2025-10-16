@@ -18,23 +18,29 @@
 - 🔭 Currently working on **AI POWERED JOB PORTAL**  
 - 💬 Ask me about **Full Stack Development**  
 - 📫 Reach me at **ranitbiswasofficial@gmail.com**
-- 🧠 Practicing DSA on LeetCode
- and GeeksforGeeks
+-
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="mailto:caniongamer0@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ranit-biswas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/CanionGame" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="mailto:ranitbiswasofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ranit-biswas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CanionGame" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/K1RbTksEgs/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/canionghipu/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
