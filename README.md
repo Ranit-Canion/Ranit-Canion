@@ -5,9 +5,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)
 
 <!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=2500&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Ranit+Biswas+-+Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+Tailwind+CSS+-+Always+Learning+New+Tech!" alt="Typing SVG" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!" /> </h1>
 
 
 
