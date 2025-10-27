@@ -6,8 +6,9 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&duration=2500&color=00C9A7&center=true&vCenter=true&multiline=true&width=600&height=90&lines=👋+Hi,+I'm+Ranit+Biswas!;💻+Full+Stack+Developer;🚀+MERN+%7C+Next.js+%7C+Tailwind+CSS;🌱+Always+Learning+New+Tech!" alt="Typing SVG" />
 </h1>
+
 
 <!-- Short Intro -->
 <h3 align="center">🚀 Passionate about building scalable full-stack applications</h3>
