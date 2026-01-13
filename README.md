@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://chatgpt.com/s/m_69660c261c5c81919b5ffeea6ef0a1f3" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/assets/banner.png" />
 
 <!-- Banner -->
 
