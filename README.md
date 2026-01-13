@@ -20,7 +20,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on **AI POWERED JOB PORTAL**  
+- 🔭 Currently looking for a Job. 
 - 💬 Ask me about **Full Stack Development**  
 - 📫 Reach me at **ranitbiswasofficial@gmail.com**
 
