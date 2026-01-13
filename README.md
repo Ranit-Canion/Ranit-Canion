@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/assets/banner.png" />
+<img src="https://raw.githubusercontent.com/Ranit-Canion/README.md/main/assets/banner.png" />
 
 <!-- Banner -->
 
