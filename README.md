@@ -4,9 +4,9 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Namaste+%F0%9F%99%8F+I%27m+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!"
-       color="E5E7EB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5E7EB&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I%27m+Ranit+Biswas;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+CSS;Always+Learning+New+Tech!" />
 </h1>
+
 
 <h2 align="center" style="color:#FFFFFF;">
   Ranit Biswas
