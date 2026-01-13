@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Ranit-Canion/Ranit-Canion/main/assets/banner.png" />
+<img src="https://raw.githubusercontent.com/Ranit-Canion/Ranit-Canion/main/banner.png" />
 
 <!-- Banner -->
 
