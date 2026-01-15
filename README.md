@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5E7EB&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I%27m+Ranit+Biswas(CaNioN);Full+Stack+Developer;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5E7EB&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F+I%27m+Ranit+Biswas;Full+Stack+Developer;Always+Learning+New+Tech!" />
 </h1>
 
 
