@@ -50,9 +50,59 @@
 
 ### 📊 DSA Problem Solving Overview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ranit-Canion/Ranit-Canion/main/dsa-stats.svg" />
-</p>
+<svg width="500" height="200" viewBox="0 0 500 200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="200" rx="16"
+        fill="#0f172a"/>
+
+  <!-- Title -->
+  <text x="20" y="35" fill="#e5e7eb"
+        font-size="18" font-family="Fira Code" font-weight="600">
+    DSA Problem Solving Stats
+  </text>
+
+  <!-- Labels -->
+  <text x="20" y="80" fill="#22c55e" font-size="14">● Easy : 120</text>
+  <text x="20" y="110" fill="#eab308" font-size="14">● Medium : 80</text>
+  <text x="20" y="140" fill="#ef4444" font-size="14">● Hard : 20</text>
+
+  <!-- Donut Chart -->
+  <circle cx="380" cy="110" r="55"
+          fill="none"
+          stroke="#22c55e"
+          stroke-width="12"
+          stroke-dasharray="260 350"
+          transform="rotate(-90 380 110)" />
+
+  <circle cx="380" cy="110" r="55"
+          fill="none"
+          stroke="#eab308"
+          stroke-width="12"
+          stroke-dasharray="170 350"
+          stroke-dashoffset="-260"
+          transform="rotate(-90 380 110)" />
+
+  <circle cx="380" cy="110" r="55"
+          fill="none"
+          stroke="#ef4444"
+          stroke-width="12"
+          stroke-dasharray="60 350"
+          stroke-dashoffset="-430"
+          transform="rotate(-90 380 110)" />
+
+  <!-- Center Text -->
+  <text x="380" y="115" text-anchor="middle"
+        fill="#e5e7eb" font-size="16" font-weight="600">
+    220
+  </text>
+  <text x="380" y="135" text-anchor="middle"
+        fill="#9ca3af" font-size="12">
+    Solved
+  </text>
+</svg>
+
 
 
 
