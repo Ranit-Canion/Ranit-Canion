@@ -45,20 +45,14 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-### 🥧 DSA Difficulty Breakdown
+---
+
+### 📊 DSA Problem Solving Stats (LeetCode)
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{
-      labels:['Easy','Medium','Hard'],
-      datasets:[{
-        data:[120,80,20],
-        backgroundColor:['#00C853','#FFB300','#D32F2F']
-      }]
-    }
-  }" />
+  <img src="https://leetcard.jacoblin.cool/K1RbTksEgs?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
+
 
 
 ---
