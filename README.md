@@ -47,11 +47,13 @@
 </p>
 ---
 
-### 📊 DSA Problem Solving Stats (LeetCode)
+
+### 📊 DSA Problem Solving Overview
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/K1RbTksEgs?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://raw.githubusercontent.com/Ranit-Canion/Ranit-Canion/main/dsa-stats.svg" />
 </p>
+
 
 
 
