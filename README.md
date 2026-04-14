@@ -45,29 +45,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-<!--
+
 ### ​🧰 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes" />
 </p>
--->
-<h3 align="center">🧰 Full Stack Web Development</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,git,github" />
-</p>
 
 
-<h3 align="center">🤖 AI Engineering & GenAI Tools</h3>
-
-<p>
-  <!-- Core AI -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-  <!-- Custom AI Tool Icons -->
-  <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/google" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/elevenlabs" width="48" height="48" />
-</p>
 
