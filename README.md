@@ -60,14 +60,14 @@
 <h3 align="center">🤖 AI Engineering & GenAI Tools</h3>
 
 <p>
+  <!-- Core AI -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-AI_Framework-blue?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-LLM_API-black?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-AI_Model-green?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-purple?style=for-the-badge" />
+  <!-- Custom AI Tool Icons -->
+  <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/openai" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/google" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/elevenlabs" width="48" height="48" />
 </p>
 
