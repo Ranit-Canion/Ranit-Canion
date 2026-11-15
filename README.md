@@ -53,35 +53,39 @@
 
 
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="45" alt="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="45" alt="Redux"/>
+</p>
 
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/html5.svg" height="48" alt="HTML" />
-  <img src="https://devicons.io/devicons/icons/css3.svg" height="48" alt="CSS" />
-  <img src="https://devicons.io/devicons/icons/bootstrap.svg" height="48" alt="Bootstrap" />
-  <img src="https://devicons.io/devicons/icons/tailwind.svg" height="48" alt="Tailwind CSS" />
-  <img src="https://devicons.io/devicons/icons/sass.svg" height="48" alt="Sass" />
-  <img src="https://devicons.io/devicons/icons/javascript.svg" height="48" alt="JavaScript" />
-  <img src="https://devicons.io/devicons/icons/react.svg" height="48" alt="React" />
-  <img src="https://devicons.io/devicons/icons/nextjs.svg" height="48" alt="Next.js" />
-  <img src="https://devicons.io/devicons/icons/redux.svg" height="48" alt="Redux" />
-  <img src="https://devicons.io/devicons/icons/nodejs.svg" height="48" alt="Node.js" />
-  <img src="https://devicons.io/devicons/icons/express.svg" height="48" alt="Express" />
-  <img src="https://devicons.io/devicons/icons/mongodb.svg" height="48" alt="MongoDB" />
-  <img src="https://devicons.io/devicons/icons/supabase.svg" height="48" alt="Supabase" />
-  <img src="https://devicons.io/devicons/icons/cplusplus.svg" height="48" alt="C++" />
-  <img src="https://devicons.io/devicons/icons/styled-components.svg" height="48" alt="Styled Components" />
-  <img src="https://devicons.io/devicons/icons/docker.svg" height="48" alt="Docker" />
-  <img src="https://devicons.io/devicons/icons/kubernetes.svg" height="48" alt="Kubernetes" />
-  <img src="https://devicons.io/devicons/icons/python.svg" height="48" alt="Python" />
-  <img src="https://devicons.io/devicons/icons/fastapi.svg" height="48" alt="FastAPI" />
-  <img src="https://devicons.io/devicons/icons/openai.svg" height="48" alt="OpenAI SDK" />
-  <img src="https://devicons.io/devicons/icons/langchain.svg" height="48" alt="LangChain" />
-  <img src="https://devicons.io/devicons/icons/langgraph.svg" height="48" alt="LangGraph" />
-  <img src="https://devicons.io/devicons/icons/autogen.svg" height="48" alt="AutoGen" />
-  <img src="https://devicons.io/devicons/icons/crewai.svg" height="48" alt="CrewAI" />
-  <img src="https://devicons.io/devicons/icons/mcp.svg" height="48" alt="MCP" />
-  <img src="https://devicons.io/devicons/icons/n8n.svg" height="48" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="45" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="45" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" height="45" alt="Styled Components"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI"/>
 </p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" height="45" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" height="45" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="45" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" height="45" alt="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/crewai/FFFFFF" height="45" alt="CrewAI"/>
+</p>
+
 
 
 
