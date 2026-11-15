@@ -51,16 +51,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes" />
 </p> -->
 
+
 <p align="center">
-  <img src="https://simpleicons.dev/icons?icons=html5,css,bootstrap,tailwindcss,sass,javascript,react,nextdotjs,redux,nodedotjs,express,mongodb,supabase,cplusplus,python,fastapi,docker,kubernetes,openai,langchain,langgraph,autogen,crewai,n8n&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,python,fastapi,openai,n8n" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
-  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="48" alt="LangGraph" />
-  <img src="https://cdn.simpleicons.org/autogen/5966D8" height="48" alt="AutoGen" />
-  <img src="https://cdn.simpleicons.org/crewai/000000" height="48" alt="CrewAI" />
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" height="48" alt="MCP" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langchain.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langgraph.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/autogen.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/crewai.svg" width="48" height="48" />
 </p>
+
 
 
