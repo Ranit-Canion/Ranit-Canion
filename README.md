@@ -52,16 +52,18 @@
 </p> -->
 
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,python,fastapi,openai,n8n" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,python,fastapi,openai" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langchain.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langgraph.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/autogen.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/crewai.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langchain.svg" height="48" alt="LangChain" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/langgraph.svg" height="48" alt="LangGraph" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/crewai.svg" height="48" alt="CrewAI" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/n8n.svg" height="48" alt="n8n" />
 </p>
+
 
 
 
