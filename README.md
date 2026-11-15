@@ -52,6 +52,6 @@
 </p> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,python,langchain,langgraph,autogen,openai,crewai,mcp,n8n" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,next,redux,nodejs,express,mongodb,supabase,cpp,styledcomponents,docker,kubernetes,python,fastapi,openai,n8n" />
 </p>
 
